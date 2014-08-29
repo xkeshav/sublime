@@ -1,48 +1,48 @@
-sublime
+Sublime Text 3
 =======
 
 Sublime text : My favorite text editor 
 
 
-Packages
+Packages 
 =======
 
-* AdvancedNewFile
+you can also find sublime text packages here : https://sublime.wbond.net/
 
-* Alignment
+* [`AdvancedNewFile`](https://github.com/skuroda/Sublime-AdvancedNewFile)
 
-* ApplySyntax
+* [`Alignment`](http://wbond.net/sublime_packages/alignment)
 
-* BracketHighlighter
+* [`ApplySyntax`](https://github.com/facelessuser/ApplySyntax)
 
-* DocBlockr
+* [`BracketHighlighter`](https://github.com/facelessuser/BracketHighlighter)
 
-* Emmet
+* [`DocBlockr`](https://sublime.wbond.net/packages/DocBlockr)
 
-* FileDiffs
+* [`Emmet`](http://emmet.io/blog/sublime-text-3/)
 
-* Gist
+* [`FileDiffs`](https://github.com/colinta/SublimeFileDiffs)
 
-* Javascript Beautify
+* [`Gist`](https://github.com/condemil/Gist)
 
-* Local History
+* [`Javascript Beautify`](https://github.com/enginespot/js-beautify-sublime)
 
-* Open Include
+* [`Local History`](http://vishr.com/local-history/)
 
-* Origami
+* [`Open Include`](https://github.com/SublimeText/Open-Include)
 
-* package Control
+* [`Origami`](https://github.com/SublimeText/Origami)
 
-* Quick file Open
+* [`**Package Control**`](https://sublime.wbond.net/installation)
 
-* SideBar
+* [`SideBarEnahancement`](https://github.com/titoBouzout/SideBarEnhancements)
 
-* Sublimerge
+* [`Sublimerge`](http://www.sublimerge.com/)
 
-* Code Formatter
+* [`Code Formatter`](https://github.com/akalongman/sublimetext-codeformatter)
 
-* HTML/CSS/JS Prettify
+* [`HTML/CSS/JS Prettify`](https://github.com/victorporof/Sublime-HTMLPrettify)
 
-* Sublime CodeIntel
+* [`Sublime CodeIntel`](http://sublimecodeintel.github.io/SublimeCodeIntel/)
 
-* Sublime linter 
+* [`Sublime linter `](http://www.sublimelinter.com/en/latest/)
