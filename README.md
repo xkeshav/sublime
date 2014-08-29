@@ -52,10 +52,14 @@ you can also find sublime text packages here : https://sublime.wbond.net/
 
 ###Color Scheme
 
-* [`Theme-Flatland`]
-* [`Theme-Nexus`]
-* [`Theme-Freesia`]
-* [`Theme-Glacier`]
-* [`Tomorrow color scheme`]
+* `Theme-Flatland`
+* **`Theme-Nexus`**
+* `Theme-Freesia`
+* `Theme-Glacier`
+* `Tomorrow color scheme`
+
+
+
+
 
 
