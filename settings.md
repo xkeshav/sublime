@@ -20,10 +20,8 @@
 	],
 	"index_exclude_patterns":
 	[
-		"/opt/lampp/htdocs/goffice/debian-groupoffice-mailserver*",
 		"*.log",
-		"/opt/lampp/htdocs/goffice/nbproject*",
-		"/opt/lampp/htdocs/goffice/debian-groupoffice-servermanager*"
+		
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
