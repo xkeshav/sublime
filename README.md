@@ -33,7 +33,7 @@ you can also find sublime text packages here : https://sublime.wbond.net/
 
 * [`Origami`](https://github.com/SublimeText/Origami)
 
-* [`**Package Control**`](https://sublime.wbond.net/installation)
+* [**`Package Control`**](https://sublime.wbond.net/installation)
 
 * [`SideBarEnahancement`](https://github.com/titoBouzout/SideBarEnhancements)
 
