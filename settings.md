@@ -39,3 +39,22 @@
 	"word_wrap": true
 }
 ```
+
+Preview URL 
+====
+We open in browser using CTRL+ F12 with  Sidebar Enhancement package, we add in 
+Project > Edit preview URLswhich is opened with /home/keshav/.config/sublime-text-3/Settings/SideBarEnhancements.json
+
+```
+ {
+    "/opt/lampp/htdocs/parixan":{
+        "url_testing":"http://localhost/parixan",
+        "url_production":"http://127.0.0.1/parixan"
+    },
+    "/opt/lampp/htdocs/larva":{
+        "url_testing":"http://127.0.0.1/larva",
+        "url_production":"http://localhost/larva"
+    }
+}
+
+```
