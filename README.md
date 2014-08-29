@@ -45,4 +45,17 @@ you can also find sublime text packages here : https://sublime.wbond.net/
 
 * [`Sublime CodeIntel`](http://sublimecodeintel.github.io/SublimeCodeIntel/)
 
-* [`Sublime linter `](http://www.sublimelinter.com/en/latest/)
+* [`Sublime linter`](http://www.sublimelinter.com/en/latest/)
+
+* [`WakaTime`](https://wakatime.com/)
+
+
+###Color Scheme
+
+* [`Theme-Flatland`]
+* [`Theme-Nexus`]
+* [`Theme-Freesia`]
+* [`Theme-Glacier`]
+* [`Tomorrow color scheme`]
+
+
