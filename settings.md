@@ -33,6 +33,7 @@
 	"tab_completion": false,
 	"tab_size": 4,
 	"theme": "Nexus.sublime-theme",
+	//"theme": "Piatto Light 3.sublime-theme", // other theme
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"update_check": false,
