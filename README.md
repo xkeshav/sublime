@@ -45,6 +45,8 @@ you can also find sublime text packages here : https://sublime.wbond.net/
 
 * [`Local History`](http://vishr.com/local-history/)
 
+* [`Markdown Editing`](https://sublime.wbond.net/packages/MarkdownEditing)
+
 * [`Open Include`](https://github.com/SublimeText/Open-Include)
 
 * [`Origami`](https://github.com/SublimeText/Origami)
