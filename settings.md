@@ -6,7 +6,7 @@
 	"auto_complete_commit_on_tab": false,
 	"auto_complete_with_fields": true,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/Nexus (SL).tmTheme",
+	//"color_scheme": "Packages/User/Nexus (SL).tmTheme",
 	"default_encoding": "UTF-8",
 	"detect_indentation": true,
 	"fade_fold_buttons": false,
@@ -33,7 +33,6 @@
 	"tab_completion": false,
 	"tab_size": 4,
 	"theme": "Nexus.sublime-theme",
-	//"theme": "Piatto Light 3.sublime-theme", // other theme
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"update_check": false,
