@@ -15,6 +15,8 @@ you can also find sublime text packages here : https://sublime.wbond.net/
 
 * [`All Auto complete`](https://github.com/alienhard/SublimeAllAutocomplete)
 
+* [`Auto File Name`](https://github.com/BoundInCode/AutoFileName)
+
 * [`ApplySyntax`](https://github.com/facelessuser/ApplySyntax)
 
 * [`BracketHighlighter`](https://github.com/facelessuser/BracketHighlighter)
@@ -49,8 +51,6 @@ you can also find sublime text packages here : https://sublime.wbond.net/
 
 * [`Open Include`](https://github.com/SublimeText/Open-Include)
 
-* [`Origami`](https://github.com/SublimeText/Origami)
-
 * [**`Package Control`**](https://sublime.wbond.net/installation)
 
 * [`Search StackOverflow`](https://github.com/ericmartel/Sublime-Text-2-Stackoverflow-Plugin) 
@@ -83,11 +83,12 @@ you can also find sublime text packages here : https://sublime.wbond.net/
 ###Color Scheme
 
 * `Theme-Flatland`
-* **`Theme-Nexus`**
+* [**`Theme-Nexus`**](https://packagecontrol.io/packages/Theme%20-%20Nexus)
 * `Theme-Freesia`
 * `Theme-Glacier`
 * `Theme-Piatto`
 * `Tomorrow color Scheme`
+* [`Theme Sunrise`](https://packagecontrol.io/packages/Sunrise%20Theme)
 
 
 
