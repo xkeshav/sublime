@@ -1,0 +1,11 @@
+{
+    "folders":
+    [
+        {
+            "path": "/opt/parixan",
+            "folder_exclude_patterns": ["bower_components", "node_modules", ".tmp"],
+            "file_exclude_patterns": [".editorconfig", ".lesshintrc", ".eslintrc", ".jshintrc", ".DS_Store", ".bowerrc", "*.sublime-project", "*.sublime-workspace", ".gitignore"],
+            "follow_symlinks": true
+        }
+    ]
+}
