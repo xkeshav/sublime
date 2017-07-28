@@ -1,0 +1,12 @@
+{
+    "node": true,
+    "esnext": true,
+    "browser": true,
+    "devel": true,
+    "globals":
+    {
+        "caches": true,
+        "window": true,
+        "self": false
+    }
+}
