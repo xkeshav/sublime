@@ -16,6 +16,7 @@ you can also find sublime text packages here : https://sublime.wbond.net/
 * [`All Auto complete`](https://github.com/alienhard/SublimeAllAutocomplete)
 
 * [`Auto File Name`](https://github.com/BoundInCode/AutoFileName)
+ suggest absolute path when you starat writing "\"
 
 * [`ApplySyntax`](https://github.com/facelessuser/ApplySyntax)
 
@@ -75,22 +76,34 @@ you can also find sublime text packages here : https://sublime.wbond.net/
 
 * [`Sublime CodeIntel`](http://sublimecodeintel.github.io/SublimeCodeIntel/)
 
-* [`Sublime linter`](http://www.sublimelinter.com/en/latest/)
-
 * [`WakaTime`](https://wakatime.com/)
 
+* [`Gutter Color`]()
 
-###Color Scheme
+* [`Javascript Console`]()
+
+* [`SublimeLinter-contrib-lesshint`](https://packagecontrol.io/packages/SublimeLinter-contrib-lesshint)
+
+* [`SublimeLinter-contrib-jshint`](https://packagecontrol.io/packages/SublimeLinter-jshint)
+
+* [`SublimeLinter-contrib-eslint`](https://packagecontrol.io/packages/SublimeLinter-contrib-eslint)
+
+* [`JavaScript Next Snippets`](https://packagecontrol.io/packages/JavaScript%20Next%20Snippets)
+
+###Themes
 
 * `Theme-Flatland`
 * [**`Theme-Nexus`**](https://packagecontrol.io/packages/Theme%20-%20Nexus)
 * `Theme-Freesia`
 * `Theme-Glacier`
 * `Theme-Piatto`
-* `Tomorrow color Scheme`
+* [`Boxy Theme`](https://packagecontrol.io/packages/Boxy%20Theme)
 * [`Theme Sunrise`](https://packagecontrol.io/packages/Sunrise%20Theme)
 
+#color scheme
 
+* `Tomorrow color Scheme`
+* `Atomic Color Scheme`
 
 
 
